@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#services{
+    /* width: 100%; */
+    /* height: 100vh; */
+    background: #F9F9F9;
+}
+.card-feature{
+    height: 250px;
+    border: 2px solid rgba(225, 59, 99, 0.3);
+}
+
+.card-icon{
+    width: 45px;
+    margin: 0 auto;
+}
+.card-para,
+.card-paragraph{
+    font-size: 13px;
+}
+.pink{
+    color: #E13B63;
+}
+.card-feature-1{
+    width: 280px;
+    height: 150px;
+    border: 1px solid #C4C4C4;
+}
+
+.card-paragraph span{
+    color: #E13B63;
+}
+.btn-pink{
+    background-color: #E13B63;
+    color: #eeee;
+}
+.word{
+    font-size: 20px;
+}
+.appoint-image img{
+    width: 25rem;
+    height: 450px;
+}
